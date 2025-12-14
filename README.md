@@ -15,10 +15,11 @@ Chaque fichier porte un nom explicite indiquant clairement son rôle (exemple : 
 ## Comment ouvrir et utiliser les fichiers
 1. Installer **AlgoBox** sur votre ordinateur.
 2. Cloner le dépôt GitHub ou télécharger les fichiers.
-3. Ouvrir AlgoBox.
-4. Cliquer sur **Fichier → Ouvrir**.
-5. Sélectionner un fichier `.alg`.
-6. Exécuter l’algorithme directement dans AlgoBox.
+3. Les fichiers AlgoBox sont regroupés dans le dossier src/ afin de clarifier l’organisation du projet.
+4. Ouvrir AlgoBox.
+5. Cliquer sur **Fichier → Ouvrir**.
+6. Sélectionner un fichier `.alg`.
+7. Exécuter l’algorithme directement dans AlgoBox.
 
 ## Méthode de travail collaboratif
 Le travail s’est fait selon le workflow suivant :
