@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="FIN_POUR" texte=""/>
+    <description texte="" courant="FIN_POUR"/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2lignes="" F2etat="inactif" F2para="" F2defaut=""/>
-    <repere repcode="-10#10#-10#10#2#2" repetat="inactif"/>
-    <param arrondiAuto="vrai" epaisseurLigne="2" totalBoucles="5000000" totalAffichages="1000" epaisseurPoint="2" nbDecimales="8" maxBoucle="500000"/>
+    <repere repetat="inactif" repcode="-10#10#-10#10#2#2"/>
+    <param totalBoucles="5000000" epaisseurLigne="2" nbDecimales="8" maxBoucle="500000" arrondiAuto="vrai" totalAffichages="1000" epaisseurPoint="2"/>
     <item algoitem="FONCTIONS_UTILISEES" code="200#declarationfonctions"/>
     <item algoitem="VARIABLES" code="100#declarationsvariables">
         <item algoitem="tableau EST_DU_TYPE LISTE" code="1#LISTE#tableau"/>
